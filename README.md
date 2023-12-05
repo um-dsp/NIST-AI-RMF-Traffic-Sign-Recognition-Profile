@@ -1,4 +1,4 @@
-# Autonomous Vehicle Risk Management Profile for Traffic Sign Recognition (TSR). 
+# Autonomous Vehicle Risk Management Profile for Traffic Sign Recognition (TSR)
 
 To provide guidance on risk management and in response to the National Artificial Intelligence Initiative Act of 2020, the National Institute of Standards and Technology (NIST) developed the [AI Risk Management Framework (AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf). The Framework, which was released in January of 2023, was developed as a guideline for organizations in all industries to manage risks throughout the AI system lifecycle. 
 
