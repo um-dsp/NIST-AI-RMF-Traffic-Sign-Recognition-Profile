@@ -6,7 +6,7 @@ This TSR profile is developed based on the NIST AI RMF framework’s functions, 
 
 This is an early draft of the profile and your feedback is highly appreciated.
 
-# Contats:
+# Contacts:
 
  - Christine Carlton: crider@umich.edu
  - Birhanu Eshete: birhanu@umich.edu
